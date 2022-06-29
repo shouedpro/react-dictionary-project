@@ -5,6 +5,8 @@ import Dictionary from "./Dictionary";
 export default function App() {
   return (
     <div className="App">
+      <h1>Dictionary</h1>
+      <p>What are you looking for today?</p>
       <main>
         <Dictionary />
       </main>
