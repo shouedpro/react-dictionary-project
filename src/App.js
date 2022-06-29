@@ -11,13 +11,11 @@ export default function App() {
       </main>
       <footer>
         <div>
-          Open-sourced on{" "}
+          Created by Shoko - Open-sourced on{" "}
           <a href="https://github.com/shouedpro/react-dictionary-project">
             GitHub
-          </a>
-        </div>
-        <div>
-          Hosted on{" "}
+          </a>{" "}
+          and hosted on{" "}
           <a href="https://jade-mousse-23b161.netlify.app/">Netlify</a>
         </div>
       </footer>
