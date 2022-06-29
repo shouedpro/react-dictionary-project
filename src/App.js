@@ -1,7 +1,13 @@
+import React from "react";
 import "./App.css";
+import Dictionary from "./Dictionary";
 
-function App() {
-  return <div className="App">hello</div>;
+export default function App() {
+  return (
+    <div className="App">
+      <main>
+        <Dictionary />
+      </main>
+    </div>
+  );
 }
-
-export default App;
