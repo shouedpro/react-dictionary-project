@@ -6,6 +6,8 @@ ul {
 
 li {
   font-size: 14px;
+  font-weight: 600;
+  color: grey;
   display: inline-block;
   padding: 10px;
   margin-bottom: 20px;

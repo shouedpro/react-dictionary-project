@@ -13,6 +13,6 @@ export default function Synonyms(props) {
       </div>
     );
   } else {
-    return null;
+    return "Synonyms not found";
   }
 }

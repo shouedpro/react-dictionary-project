@@ -1,5 +1,10 @@
 .Photos img {
   border-radius: 6px;
   margin-bottom: 20px;
-  display: block;
+}
+
+.photo-title {
+  color: #66bfbf;
+  font-style: italic;
+  margin-bottom: 20px;
 }

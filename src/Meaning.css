@@ -5,6 +5,7 @@
 .partOfSpeech {
   color: #66bfbf;
   font-style: italic;
+  margin-bottom: 20px;
 }
 
 .definition {
