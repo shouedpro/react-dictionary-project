@@ -1,11 +1,11 @@
 .Meaning {
   text-align: left;
   padding-left: 50px;
+  margin: 50px;
 }
 
 .partOfSpeech {
   font-style: italic;
-  background-color: beige;
 }
 
 .definition {
@@ -16,6 +16,6 @@
 
 .example {
   color: grey;
-  text-decoration: wavy;
+  font-style: italic;
   padding-left: 50px;
 }
