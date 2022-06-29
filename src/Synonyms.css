@@ -1,0 +1,16 @@
+ul {
+  display: flex;
+  list-style: none;
+  margin-top: 0;
+}
+
+li {
+  font-size: 14px;
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.synonyms {
+  margin-bottom: 20px;
+}

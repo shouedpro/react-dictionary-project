@@ -1,10 +1,23 @@
+body {
+  background: #eaf6f6;
+}
+
 h1 {
+  color: #f76b8a;
+  font-size: 60px;
   margin-bottom: 50px;
+  text-align: center;
+}
+
+main {
+  display: block;
+  margin: 0 auto;
+  max-width: 1000px;
 }
 
 a {
   text-decoration: none;
-  color: rgb(94, 186, 247);
+  color: #f76b8a;
 }
 
 footer {
@@ -12,9 +25,9 @@ footer {
   font-family: monospace;
   font-size: 16px;
   margin-top: 200px;
+  text-align: center;
 }
 
 .App {
-  text-align: center;
   margin: 80px;
 }
